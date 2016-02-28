@@ -1,0 +1,6 @@
+framework module Pods_Extractor {
+  umbrella header "Pods-Extractor-umbrella.h"
+
+  export *
+  module * { export * }
+}

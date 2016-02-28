@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Extractor": {
+      "applicationId": "K3iaNav9TphE8eopgbHoJUjWf7yNT5KGOsNG0Fb2"
+    },
+    "_default": {
+      "link": "Extractor"
+    }
+  }
+}
